@@ -34,5 +34,3 @@ flags:
 --soft
 --hard
 ~~~
-
-alterei 2
