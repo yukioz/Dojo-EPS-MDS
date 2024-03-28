@@ -4,7 +4,7 @@ Para começar, de fork no projeto, clone para sua máquina,  crie uma branch com
 
 1- Davi Nobre
 
-2-
+2- Guilherme Storch
 
 3-
 
