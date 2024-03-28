@@ -6,7 +6,7 @@ Para começar, de fork no projeto, clone para sua máquina,  crie uma branch com
 
 2- Guilherme Storch
 
-3-
+3- fulano de tal
 
 4- João Victor de Carvalho Nobre
 
