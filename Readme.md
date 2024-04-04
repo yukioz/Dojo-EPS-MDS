@@ -12,7 +12,7 @@ Para começar, de fork no projeto, clone para sua máquina,  crie uma branch com
 
 5- Davi Mesquita Sousa
 
-6-
+6- Anna Brandão
 
 comando úteis:
 - git status
