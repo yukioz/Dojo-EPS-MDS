@@ -14,6 +14,8 @@ Para começar, de fork no projeto, clone para sua máquina,  crie uma branch com
 
 6- Anna Brandão
 
+7- Milena Fernandes Rocha
+
 comando úteis:
 - git status
 - git add
