@@ -10,9 +10,11 @@ Para começar, de fork no projeto, clone para sua máquina,  crie uma branch com
 
 4- João Victor de Carvalho Nobre
 
-5- Milena Fernandes Rocha
+5- Davi Mesquita Sousa
 
-6-
+6- Anna Brandão
+
+7- Milena Fernandes Rocha
 
 comando úteis:
 - git status
